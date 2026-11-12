@@ -108,7 +108,5 @@ information, because smog and weather change together. I did not test this idea.
 ```
 
 ## Acknowledgements
-I used an AI assistant (Claude) for help with code and explanations. I ran the analysis myself and
-wrote my own observations.
 
 Dataset by Nitiraj Kulkarni (Kaggle). Weather data from Open-Meteo.
