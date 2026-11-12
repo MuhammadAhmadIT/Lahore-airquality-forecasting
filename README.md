@@ -103,9 +103,8 @@ information, because smog and weather change together. I did not test this idea.
 ```
 ├── README.md
 ├── Air_quality.ipynb
-└── data/
-    ├── air_quality_historical.csv
-    └── city_info.csv
+├── air_quality_historical.csv
+└── city_info.csv
 ```
 
 ## Acknowledgements
